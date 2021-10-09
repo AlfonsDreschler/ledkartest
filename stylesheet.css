@@ -1,0 +1,7 @@
+@font-face {
+    font-family: '8bit';
+    src: url('8-bitfortress.woff2') format('woff2'),
+         url('8-bitfortress.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
